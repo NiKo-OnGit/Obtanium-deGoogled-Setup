@@ -6,5 +6,5 @@ Permette di installare:
 - Launcher: Daijisho, Titanius Launcher;
 - Utility: Firefox, MiXplorer, Syncthing, KeyMapper, NewPipe, Jellyfin, mpv;
 - Store
-  - alternativi: Aurora Store (per poter installare gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2);
+ - alternativi: Aurora Store (per poter installare gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2);
 

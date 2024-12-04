@@ -28,5 +28,5 @@ Permette di installare:
   - NewPipe
   - Jellyfin
   - mpv
-- Store alternativi (per poter installare gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
+- Store alternativi (per gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
   - Aurora Store

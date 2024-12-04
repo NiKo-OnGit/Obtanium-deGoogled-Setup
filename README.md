@@ -1,1 +1,1 @@
-# Obtanium-Storeless-Configuration
+# Obtanium-deGoogled-Configuration

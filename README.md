@@ -27,6 +27,7 @@ Permette di installare:
   - KeyMapper
   - NewPipe
   - Jellyfin
+  - Stremio
   - mpv
 - Store alternativi (per gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
   - Aurora Store

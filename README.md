@@ -11,13 +11,13 @@ With this script you can install and update:
 - MelonDS
 - PPSSPP
 - Vita3K
-- Lime3DS (archived ver.)
+- Lime3DS *(archived ver.)*
 - Citra MMJ
 - Cemu
 - Sudachi
 - Lemuroid
 - Winlator
-- NetherSX2 Patch (Track-Only)
+- NetherSX2 Patch *(Track-Only)*
 ### Launcher:
 - Daijisho
 - Titanius Launcher

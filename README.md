@@ -18,10 +18,10 @@ With this script you can install and update:
   - Lemuroid
   - Winlator
   - NetherSX2 Patch (Track-Only)
-###Launcher:
+### Launcher:
   - Daijisho
   - Titanius Launcher
-###Utility:
+### Utility:
   - Obtanium
   - Firefox
   - MiXplorer (Beta)
@@ -31,8 +31,8 @@ With this script you can install and update:
   - Jellyfin
   - Stremio
   - mpv
-###Streaming app
+### Streaming app
   - Moonlight
   - Steam Link
-###Alternative store (for apps you can only find on Play Store):
+### Alternative store (for apps you can only find on Play Store):
   - Aurora Store

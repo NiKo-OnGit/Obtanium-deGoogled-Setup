@@ -17,6 +17,7 @@ With this script you can install and update:
   - Sudachi
   - Lemuroid
   - Winlator
+  - NetherSX2 Patch (Track-Only)
 - Launcher:
   - Daijisho
   - Titanius Launcher
@@ -30,5 +31,8 @@ With this script you can install and update:
   - Jellyfin
   - Stremio
   - mpv
-- Alternative store (for remaining emulators: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
+- Streaming app
+  - Moonlight
+  - Steam Link
+- Alternative store (for apps you can only find on Play Store):
   - Aurora Store

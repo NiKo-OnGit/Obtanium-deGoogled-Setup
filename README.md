@@ -34,5 +34,5 @@ With this script you can install and update:
 ### Streaming app
 - Moonlight
 - Steam Link
-### Alternative store (for apps you can only find on Play Store):
+### Alternative store <sup>(for apps you can only find on Play Store)</sup>:
 - Aurora Store

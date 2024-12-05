@@ -239,6 +239,20 @@
             "allowIdChange": false
         },
         {
+            "id": "org.pegasus_frontend.android",
+            "url": "https://github.com/mmatyas/pegasus-frontend",
+            "author": "mmatyas",
+            "name": "Pegasus Frontend",
+            "apkUrls": "[[\"pegasus-fe_alpha16-82-gc3462e68_android.apk\",\"https://api.github.com/repos/mmatyas/pegasus-frontend/releases/assets/197034760\"],[\"pegasus-fe_alpha16-82-gc3462e68_android64.apk\",\"https://api.github.com/repos/mmatyas/pegasus-frontend/releases/assets/197034768\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "categories": [
+                "Launcher"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
             "id": "com.winlator",
             "url": "https://github.com/brunodev85/winlator",
             "author": "brunodev85",

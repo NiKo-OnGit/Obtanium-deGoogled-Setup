@@ -1,18 +1,18 @@
 # Obtanium deGoogled setup
-File di configurazione per Obtanium per configurare una console Android senza utilizzare un account Google.
+Obtanium import file to setup an Android console without a Google account.
 
-Permette di installare:
-- Emulatori:
-  - RetroArch
-  - Dolphin
-  - Dolphin MMJR
+With this script you can install and update:
+- Emulators:
+  - RetroArch (AArch64) (Nightly ver.)
+  - Dolphin (Development ver.)
+  - Dolphin MMJR2
   - Duckstation
   - Flycast
   - MelonDS
   - PPSSPP
   - Vita3K
-  - Citra
-  - Lime3DS
+  - Lime3DS (archived ver.)
+  - Citra MMJ
   - Cemu
   - Sudachi
   - Lemuroid
@@ -21,13 +21,14 @@ Permette di installare:
   - Daijisho
   - Titanius Launcher
 - Utility:
+  - Obtanium
   - Firefox
-  - MiXplorer
+  - MiXplorer (Beta)
   - Syncthing
   - KeyMapper
   - NewPipe
   - Jellyfin
   - Stremio
   - mpv
-- Store alternativi (per gli emulatori rimanenti: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
+- Alternative store (for remaining emulators: Redream, Mupen64Plus FZ, DraStic, Yaba Sanshiro 2):
   - Aurora Store

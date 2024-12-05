@@ -17,7 +17,7 @@ With this script you can install and update:
   - Sudachi
   - Lemuroid
   - Winlator
-  - NetherSX2 Patch [i](Track-Only)[/i]
+  - NetherSX2 Patch (Track-Only)
 - Launcher:
   - Daijisho
   - Titanius Launcher

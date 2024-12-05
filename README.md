@@ -2,7 +2,7 @@
 Obtanium import file to setup an Android console without a Google account.
 
 With this script you can install and update:
-###Emulators:
+### Emulators:
   - RetroArch (AArch64) (Nightly ver.)
   - Dolphin (Development ver.)
   - Dolphin MMJR2

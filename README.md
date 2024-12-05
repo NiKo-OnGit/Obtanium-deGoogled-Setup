@@ -20,6 +20,7 @@ With this script you can install and update:
 - NetherSX2 Patch <sup>*(Track-Only)*</sup>
 ### Launcher:
 - Daijisho
+- Pegasus Frontend
 - Titanius Launcher
 ### Utility:
 - Obtanium

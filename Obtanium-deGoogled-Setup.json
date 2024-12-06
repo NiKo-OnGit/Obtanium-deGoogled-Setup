@@ -143,7 +143,7 @@
         {
             "id": "com.aurora.store",
             "url": "https://www.auroraoss.com/AuroraStore/Release",
-            "author": "www.auroraoss.com",
+            "author": "Aurora OSS",
             "name": "Aurora Store",
             "apkUrls": "[[\"https://www.auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.2.apk\",\"https://www.auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.2.apk\"]]",
             "preferredApkIndex": 0,
@@ -158,7 +158,7 @@
             "id": "com.magneticchen.daijishou",
             "url": "https://github.com/tapiocafox/daijishou",
             "author": "tapiocafox",
-            "name": "Daijishou FrontEnd",
+            "name": "Daijishō",
             "apkUrls": "[[\"408.apk\",\"https://api.github.com/repos/TapiocaFox/Daijishou/releases/assets/199597847\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Daijishō\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Daijishō is a retro launcher that let you manage your retro games libraries.\"}",
@@ -171,7 +171,7 @@
         {
             "id": "org.mozilla.firefox",
             "url": "https://download.cdn.mozilla.net/pub/fenix/releases/",
-            "author": "download.cdn.mozilla.net",
+            "author": "Mozilla",
             "name": "Firefox",
             "apkUrls": "[[\"https://download.cdn.mozilla.net/pub/fenix/releases/132.0.2/android/fenix-132.0.2-android-arm64-v8a/fenix-132.0.2.multi.android-arm64-v8a.apk\",\"https://download.cdn.mozilla.net/pub/fenix/releases/132.0.2/android/fenix-132.0.2-android-arm64-v8a/fenix-132.0.2.multi.android-arm64-v8a.apk\"]]",
             "preferredApkIndex": 0,
@@ -185,7 +185,7 @@
         {
             "id": "org.jellyfin.mobile",
             "url": "https://github.com/jellyfin/jellyfin-android",
-            "author": "jellyfin",
+            "author": "Jellyfin",
             "name": "Jellyfin",
             "apkUrls": "[[\"jellyfin-android-v2.6.2-libre-release.apk\",\"https://api.github.com/repos/jellyfin/jellyfin-android/releases/assets/178024436\"]]",
             "preferredApkIndex": 0,

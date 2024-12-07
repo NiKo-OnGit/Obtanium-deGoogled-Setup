@@ -26,6 +26,7 @@ With this script you can install and update:
 - Obtanium
 - Firefox
 - MiXplorer (Beta)
+- Localsend
 - Syncthing
 - KeyMapper
 - NewPipe

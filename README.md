@@ -11,7 +11,7 @@ With this script you can install and update:
 - MelonDS
 - PPSSPP
 - Vita3K
-- AetherSX2 15210-v1.5-4248 (alpha)
+- AetherSX2 15210-v1.5-4248 (alpha) <sup>*(archived ver.)*</sup>
 - Lime3DS <sup>*(archived ver.)*</sup>
 - Citra MMJ
 - Cemu

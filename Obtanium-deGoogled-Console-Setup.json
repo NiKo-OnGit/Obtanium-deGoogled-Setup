@@ -352,16 +352,16 @@
         },
         {
             "id": "com.mixplorer.beta",
-            "url": "https://mixplorer.com/beta",
+            "url": "https://mixplorer.com/beta/",
             "author": "mixplorer.com",
             "name": "MiXplorer (Beta)",
-            "apkUrls": "[[\"https://mixplorer.com/beta/MiXplorer_v6.68.0-Beta_B24102324-x64.apk\",\"https://mixplorer.com/beta/MiXplorer_v6.68.0-Beta_B24102324-x64.apk\"]]",
+            "apkUrls": "[[\"https://mixplorer.com/beta/MiXplorer_v6.68.4-Beta_B24112312-arm64.apk\",\"https://mixplorer.com/beta/MiXplorer_v6.68.4-Beta_B24112312-arm64.apk\"]]",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A file manager app for Android devices, offering advanced features such as root access, cloud storage integration, and customization options.\",\"supportFixedAPKURL\":false}",
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"[0-9]+\\\\.[0-9]+\\\\.[0-9]+\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"arm64\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"MiXplorer (Beta)\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A file manager app for Android devices, offering advanced features such as root access, cloud storage integration, and customization options.\",\"releaseDateAsVersion\":false,\"supportFixedAPKURL\":false}",
             "categories": [
                 "Utility"
             ],
-            "overrideSource": null,
+            "overrideSource": "HTML",
             "allowIdChange": false
         },
         {
@@ -402,7 +402,7 @@
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
             "categories": [
                 "Streaming"
-			],
+            ],
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -416,7 +416,7 @@
             "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Stream games from your computer.\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
             "categories": [
                 "Streaming"
-			],
+            ],
             "overrideSource": "DirectAPKLink",
             "allowIdChange": false
         },
@@ -431,7 +431,7 @@
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
             "categories": [
                 "Utility"
-			],
+            ],
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -441,12 +441,11 @@
             "author": "archive.org",
             "name": "AetherSX2",
             "apkUrls": "[[\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\",\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\"]]",
-            "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"AetherSX2 15210-v1.5-4248 (alpha)\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"supportFixedAPKURL\":false}",
             "categories": [
                 "Emulators"
-			],
+            ],
             "overrideSource": null,
             "allowIdChange": false
         }

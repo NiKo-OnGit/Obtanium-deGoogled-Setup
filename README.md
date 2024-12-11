@@ -40,7 +40,7 @@ It includes:
 ### Alternative store *(for apps you can only find on Play Store)*:
 - Aurora Store
 
-How to use:
+## How to use:
 - Go to "Obtanium-deGoogled-Console-Setup.json" file and download it using the "Download raw file" button
 - Download and install [Obtainium](https://github.com/ImranR98/Obtainium) on your console
 - Go to "Import/Export"

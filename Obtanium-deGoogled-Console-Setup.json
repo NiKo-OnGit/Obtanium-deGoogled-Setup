@@ -128,16 +128,16 @@
         },
         {
             "id": "com.github.stenzek.duckstation",
-            "url": "https://www.duckstation.org/android/duckstation-android.apk",
-            "author": "www.duckstation.org",
+            "url": "https://downloads.duckstation.org/android/",
+            "author": "downloads.duckstation.org",
             "name": "DuckStation",
             "apkUrls": "[[\"https://www.duckstation.org/android/duckstation-android.apk\",\"https://www.duckstation.org/android/duckstation-android.apk\"]]",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":true,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"DuckStation\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"supportFixedAPKURL\":false}",
             "categories": [
                 "Emulators"
             ],
-            "overrideSource": "DirectAPKLink",
+            "overrideSource": null,
             "allowIdChange": false
         },
         {

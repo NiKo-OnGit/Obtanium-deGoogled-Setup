@@ -1,7 +1,7 @@
 # Obtanium deGoogled setup
-Obtanium import file to setup an Android console without a Google account.
+Import file for Obtanium to setup an Android console without a Google account.
 
-With this script you can install and update:
+It includes:
 ### Emulators:
 - RetroArch (AArch64) *(Nightly ver.)*
 - Dolphin *(Development ver.)*
@@ -39,3 +39,11 @@ With this script you can install and update:
 - Steam Link
 ### Alternative store *(for apps you can only find on Play Store)*:
 - Aurora Store
+
+How to use:
+- Go to "Obtanium-deGoogled-Console-Setup.json" file and download it using the "Download raw file" button
+- Download and install [Obtainium](https://github.com/ImranR98/Obtainium) on your console
+- Go to "Import/Export"
+- Go to "Import to Obtanium"
+- Select the "Obtanium-deGoogled-Console-Setup.json" file
+- Enjoy

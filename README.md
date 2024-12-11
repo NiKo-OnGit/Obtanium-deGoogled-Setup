@@ -1,8 +1,16 @@
 # Obtanium deGoogled setup
 Import file for Obtanium to setup an Android console without a Google account.
 
-It includes:
-### Emulators:
+## How to use
+- Go to "Obtanium-deGoogled-Console-Setup.json" file and download it using the "Download raw file" button
+- Download and install [Obtainium](https://github.com/ImranR98/Obtainium) on your console
+- Go to "Import/Export"
+- Go to "Import to Obtanium"
+- Select the "Obtanium-deGoogled-Console-Setup.json" file
+- Enjoy
+
+## Included apps
+### Emulators
 - RetroArch (AArch64) *(Nightly ver.)*
 - Dolphin *(Development ver.)*
 - Dolphin MMJR2
@@ -19,11 +27,11 @@ It includes:
 - Lemuroid
 - Winlator
 - NetherSX2 Patch <sup>*(Track-Only)*</sup>
-### Launcher:
+### Launcher
 - Daijisho
 - Pegasus Frontend
 - Titanius Launcher
-### Utility:
+### Utility
 - Obtanium
 - Firefox
 - MiXplorer (Beta)
@@ -39,11 +47,3 @@ It includes:
 - Steam Link
 ### Alternative store *(for apps you can only find on Play Store)*:
 - Aurora Store
-
-## How to use:
-- Go to "Obtanium-deGoogled-Console-Setup.json" file and download it using the "Download raw file" button
-- Download and install [Obtainium](https://github.com/ImranR98/Obtainium) on your console
-- Go to "Import/Export"
-- Go to "Import to Obtanium"
-- Select the "Obtanium-deGoogled-Console-Setup.json" file
-- Enjoy

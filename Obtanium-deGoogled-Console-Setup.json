@@ -448,6 +448,21 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
+        },
+		{
+            "id": "io.github.mandarine3ds.mandarine",
+            "url": "https://github.com/mandarine3ds/mandarine",
+            "author": "mandarine3ds",
+            "name": "mandarine",
+            "apkUrls": "[[\"mandarine-android-universal-20240904-d59f2f7.apk\",\"https://api.github.com/repos/mandarine3ds/mandarine/releases/assets/190503717\"]]",
+            "otherAssetUrls": "[[\"mandarine-linux-appimage-20240904-d59f2f7.tar.gz\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-linux-appimage-20240904-d59f2f7.tar.gz\"],[\"mandarine-macos-universal-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-macos-universal-20240904-d59f2f7.zip\"],[\"mandarine-windows-msvc-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-windows-msvc-20240904-d59f2f7.zip\"],[\"mandarine-windows-msys2-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-windows-msys2-20240904-d59f2f7.zip\"],[\"r1.1.tar.gz\",\"https://api.github.com/repos/mandarine3ds/mandarine/tarball/r1.1\"],[\"r1.1.zip\",\"https://api.github.com/repos/mandarine3ds/mandarine/zipball/r1.1\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Mandarine\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Fork of Citra\"}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

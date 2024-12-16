@@ -19,8 +19,8 @@ Import file for Obtanium to setup an Android console without a Google account.
 - MelonDS
 - PPSSPP
 - Vita3K
-- AetherSX2 <sup>*(v1.5-3668, v1.5-4248)*</sup>
-- NetherSX2 <sup>*(v1.5-3668, v1.8-4248, v1.9-4248)*</sup>
+- AetherSX2 *(v1.5-3668, v1.5-4248)*
+- NetherSX2 *(v1.5-3668, v1.8-4248, v1.9-4248)*
 - Lime3DS <sup>*(archived ver.)*</sup>
 - Citra <sup>*(archived ver.)*</sup>
 - Mandarine

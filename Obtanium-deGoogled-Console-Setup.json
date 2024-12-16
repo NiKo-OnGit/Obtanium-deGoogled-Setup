@@ -177,7 +177,7 @@
             "preferredApkIndex": 0,
             "additionalSettings": "{\"intermediateLink\":[{\"customLinkFilterRegex\":\"(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.\\\\d+)+/$\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":true},{\"customLinkFilterRegex\":\"android/$\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false},{\"customLinkFilterRegex\":\"fenix-(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.\\\\d+)+-android-arm64-v8a/$\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false}],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.)?(?:(\\\\d+)\\\\.\\\\d+)\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Gecko-based browser\",\"supportFixedAPKURL\":false}",
             "categories": [
-                "Utility"
+                "Browser"
             ],
             "overrideSource": null,
             "allowIdChange": false
@@ -267,7 +267,7 @@
             "allowIdChange": false
         },
         {
-            "id": "org.citra.emu",
+            "id": "org.citrammj.emu",
             "url": "https://GitHub.com/weihuoya/citra",
             "author": "weihuoya",
             "name": "Citra MMJ",
@@ -378,21 +378,7 @@
             "overrideSource": null,
             "allowIdChange": false
         },
-		{
-            "id": "662656983",
-            "url": "https://github.com/Trixarian/NetherSX2-patch",
-            "author": "Trixarian",
-            "name": "NetherSX2 Patch (Track-Only)",
-            "apkUrls": "[]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"NetherSX2 Patch\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
-            "categories": [
-                "Emulators"
-            ],
-            "overrideSource": null,
-            "allowIdChange": true
-        },
-		{
+        {
             "id": "com.limelight",
             "url": "https://github.com/moonlight-stream/moonlight-android",
             "author": "moonlight-stream",
@@ -406,7 +392,7 @@
             "overrideSource": null,
             "allowIdChange": false
         },
-		{
+        {
             "id": "com.valvesoftware.steamlink",
             "url": "https://media.steampowered.com/steamlink/android/latest/steamlink-android.apk",
             "author": "media.steampowered.com",
@@ -420,7 +406,7 @@
             "overrideSource": "DirectAPKLink",
             "allowIdChange": false
         },
-		{
+        {
             "id": "org.localsend.localsend_app",
             "url": "https://github.com/localsend/localsend",
             "author": "Localsend",
@@ -435,21 +421,7 @@
             "overrideSource": null,
             "allowIdChange": false
         },
-		{
-            "id": "xyz.aethersx2.android",
-            "url": "https://archive.org/details/aether-sx-2-15210-v-1.5-4248_202405",
-            "author": "archive.org",
-            "name": "AetherSX2",
-            "apkUrls": "[[\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\",\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\"]]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"AetherSX2 15210-v1.5-4248 (alpha)\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"supportFixedAPKURL\":false}",
-            "categories": [
-                "Emulators"
-            ],
-            "overrideSource": null,
-            "allowIdChange": false
-        },
-		{
+        {
             "id": "io.github.mandarine3ds.mandarine",
             "url": "https://github.com/mandarine3ds/mandarine",
             "author": "mandarine3ds",
@@ -458,6 +430,119 @@
             "otherAssetUrls": "[[\"mandarine-linux-appimage-20240904-d59f2f7.tar.gz\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-linux-appimage-20240904-d59f2f7.tar.gz\"],[\"mandarine-macos-universal-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-macos-universal-20240904-d59f2f7.zip\"],[\"mandarine-windows-msvc-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-windows-msvc-20240904-d59f2f7.zip\"],[\"mandarine-windows-msys2-20240904-d59f2f7.zip\",\"https://github.com/mandarine3ds/mandarine/releases/download/r1.1/mandarine-windows-msys2-20240904-d59f2f7.zip\"],[\"r1.1.tar.gz\",\"https://api.github.com/repos/mandarine3ds/mandarine/tarball/r1.1\"],[\"r1.1.zip\",\"https://api.github.com/repos/mandarine3ds/mandarine/zipball/r1.1\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Mandarine\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Fork of Citra\"}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "org.citron.citron_emu",
+            "url": "https://git.citron-emu.org/Citron/Citron/releases",
+            "author": "git.citron-emu.org",
+            "name": "Citron",
+            "apkUrls": "[[\"https://git.citron-emu.org/Citron/Citron/releases/download/nightly-20241208_091045/Citron-Android.apk\",\"https://git.citron-emu.org/Citron/Citron/releases/download/nightly-20241208_091045/Citron-Android.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Citron\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Nintendo Homebrew Emulator\",\"supportFixedAPKURL\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.brave.browser",
+            "url": "https://github.com/brave/brave-browser",
+            "author": "brave",
+            "name": "Brave",
+            "apkUrls": "[[\"Bravearm64Universal.apk\",\"https://api.github.com/repos/brave/brave-browser/releases/assets/212582659\"],[\"BraveMonoarm.apk\",\"https://api.github.com/repos/brave/brave-browser/releases/assets/212582649\"],[\"BraveMonoarm64.apk\",\"https://api.github.com/repos/brave/brave-browser/releases/assets/212582648\"],[\"BraveMonox64.apk\",\"https://api.github.com/repos/brave/brave-browser/releases/assets/212582650\"],[\"BraveMonox86.apk\",\"https://api.github.com/repos/brave/brave-browser/releases/assets/212582653\"]]",
+            "otherAssetUrls": "[[\"brave-browser-1.73.101-1.aarch64.rpm\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.aarch64.rpm\"],[\"brave-browser-1.73.101-1.aarch64.rpm.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.aarch64.rpm.sha256\"],[\"brave-browser-1.73.101-1.aarch64.rpm.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.aarch64.rpm.sha256.asc\"],[\"brave-browser-1.73.101-1.x86_64.rpm\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.x86_64.rpm\"],[\"brave-browser-1.73.101-1.x86_64.rpm.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.x86_64.rpm.sha256\"],[\"brave-browser-1.73.101-1.x86_64.rpm.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-1.x86_64.rpm.sha256.asc\"],[\"brave-browser-1.73.101-linux-amd64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-amd64.zip\"],[\"brave-browser-1.73.101-linux-amd64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-amd64.zip.sha256\"],[\"brave-browser-1.73.101-linux-amd64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-amd64.zip.sha256.asc\"],[\"brave-browser-1.73.101-linux-arm64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-arm64.zip\"],[\"brave-browser-1.73.101-linux-arm64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-arm64.zip.sha256\"],[\"brave-browser-1.73.101-linux-arm64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser-1.73.101-linux-arm64.zip.sha256.asc\"],[\"Brave-Browser-arm64.dmg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.dmg\"],[\"Brave-Browser-arm64.dmg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.dmg.sha256\"],[\"Brave-Browser-arm64.dmg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.dmg.sha256.asc\"],[\"Brave-Browser-arm64.pkg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.pkg\"],[\"Brave-Browser-arm64.pkg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.pkg.sha256\"],[\"Brave-Browser-arm64.pkg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-arm64.pkg.sha256.asc\"],[\"Brave-Browser-universal.dmg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.dmg\"],[\"Brave-Browser-universal.dmg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.dmg.sha256\"],[\"Brave-Browser-universal.dmg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.dmg.sha256.asc\"],[\"Brave-Browser-universal.pkg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.pkg\"],[\"Brave-Browser-universal.pkg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.pkg.sha256\"],[\"Brave-Browser-universal.pkg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-universal.pkg.sha256.asc\"],[\"Brave-Browser-x64.dmg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.dmg\"],[\"Brave-Browser-x64.dmg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.dmg.sha256\"],[\"Brave-Browser-x64.dmg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.dmg.sha256.asc\"],[\"Brave-Browser-x64.pkg\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.pkg\"],[\"Brave-Browser-x64.pkg.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.pkg.sha256\"],[\"Brave-Browser-x64.pkg.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Brave-Browser-x64.pkg.sha256.asc\"],[\"brave-browser_1.73.101_amd64.deb\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_amd64.deb\"],[\"brave-browser_1.73.101_amd64.deb.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_amd64.deb.sha256\"],[\"brave-browser_1.73.101_amd64.deb.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_amd64.deb.sha256.asc\"],[\"brave-browser_1.73.101_arm64.deb\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_arm64.deb\"],[\"brave-browser_1.73.101_arm64.deb.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_arm64.deb.sha256\"],[\"brave-browser_1.73.101_arm64.deb.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-browser_1.73.101_arm64.deb.sha256.asc\"],[\"brave-v1.73.101-darwin-arm64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64-symbols.zip\"],[\"brave-v1.73.101-darwin-arm64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64-symbols.zip.sha256\"],[\"brave-v1.73.101-darwin-arm64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-darwin-arm64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64.zip\"],[\"brave-v1.73.101-darwin-arm64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64.zip.sha256\"],[\"brave-v1.73.101-darwin-arm64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-arm64.zip.sha256.asc\"],[\"brave-v1.73.101-darwin-x64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64-symbols.zip\"],[\"brave-v1.73.101-darwin-x64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64-symbols.zip.sha256\"],[\"brave-v1.73.101-darwin-x64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-darwin-x64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64.zip\"],[\"brave-v1.73.101-darwin-x64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64.zip.sha256\"],[\"brave-v1.73.101-darwin-x64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-darwin-x64.zip.sha256.asc\"],[\"brave-v1.73.101-linux-arm64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-arm64-symbols.zip\"],[\"brave-v1.73.101-linux-arm64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-arm64-symbols.zip.sha256\"],[\"brave-v1.73.101-linux-arm64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-arm64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-linux-x64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-x64-symbols.zip\"],[\"brave-v1.73.101-linux-x64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-x64-symbols.zip.sha256\"],[\"brave-v1.73.101-linux-x64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-linux-x64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-win32-arm64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64-symbols.zip\"],[\"brave-v1.73.101-win32-arm64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64-symbols.zip.sha256\"],[\"brave-v1.73.101-win32-arm64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-win32-arm64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64.zip\"],[\"brave-v1.73.101-win32-arm64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64.zip.sha256\"],[\"brave-v1.73.101-win32-arm64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-arm64.zip.sha256.asc\"],[\"brave-v1.73.101-win32-ia32-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32-symbols.zip\"],[\"brave-v1.73.101-win32-ia32-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32-symbols.zip.sha256\"],[\"brave-v1.73.101-win32-ia32-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-win32-ia32.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32.zip\"],[\"brave-v1.73.101-win32-ia32.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32.zip.sha256\"],[\"brave-v1.73.101-win32-ia32.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-ia32.zip.sha256.asc\"],[\"brave-v1.73.101-win32-x64-symbols.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64-symbols.zip\"],[\"brave-v1.73.101-win32-x64-symbols.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64-symbols.zip.sha256\"],[\"brave-v1.73.101-win32-x64-symbols.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64-symbols.zip.sha256.asc\"],[\"brave-v1.73.101-win32-x64.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64.zip\"],[\"brave-v1.73.101-win32-x64.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64.zip.sha256\"],[\"brave-v1.73.101-win32-x64.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/brave-v1.73.101-win32-x64.zip.sha256.asc\"],[\"Bravearm64Universal.apk.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Bravearm64Universal.apk.sha256\"],[\"Bravearm64Universal.apk.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/Bravearm64Universal.apk.sha256.asc\"],[\"BraveBrowserSetup.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserSetup.exe\"],[\"BraveBrowserSetup.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserSetup.exe.sha256\"],[\"BraveBrowserSetup.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserSetup.exe.sha256.asc\"],[\"BraveBrowserStandaloneSetup.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup.exe\"],[\"BraveBrowserStandaloneSetup.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup.exe.sha256\"],[\"BraveBrowserStandaloneSetup.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup.exe.sha256.asc\"],[\"BraveBrowserStandaloneSetup32.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup32.exe\"],[\"BraveBrowserStandaloneSetup32.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup32.exe.sha256\"],[\"BraveBrowserStandaloneSetup32.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetup32.exe.sha256.asc\"],[\"BraveBrowserStandaloneSetupArm64.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetupArm64.exe\"],[\"BraveBrowserStandaloneSetupArm64.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetupArm64.exe.sha256\"],[\"BraveBrowserStandaloneSetupArm64.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSetupArm64.exe.sha256.asc\"],[\"BraveBrowserStandaloneSilentSetup.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup.exe\"],[\"BraveBrowserStandaloneSilentSetup.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup.exe.sha256\"],[\"BraveBrowserStandaloneSilentSetup.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup.exe.sha256.asc\"],[\"BraveBrowserStandaloneSilentSetup32.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup32.exe\"],[\"BraveBrowserStandaloneSilentSetup32.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup32.exe.sha256\"],[\"BraveBrowserStandaloneSilentSetup32.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetup32.exe.sha256.asc\"],[\"BraveBrowserStandaloneSilentSetupArm64.exe\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetupArm64.exe\"],[\"BraveBrowserStandaloneSilentSetupArm64.exe.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetupArm64.exe.sha256\"],[\"BraveBrowserStandaloneSilentSetupArm64.exe.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveBrowserStandaloneSilentSetupArm64.exe.sha256.asc\"],[\"BraveMonoarm.apk.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm.apk.sha256\"],[\"BraveMonoarm.apk.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm.apk.sha256.asc\"],[\"BraveMonoarm64.aab\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm64.aab\"],[\"BraveMonoarm64.aab.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm64.aab.sha256\"],[\"BraveMonoarm64.aab.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm64.aab.sha256.asc\"],[\"BraveMonoarm64.apk.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm64.apk.sha256\"],[\"BraveMonoarm64.apk.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonoarm64.apk.sha256.asc\"],[\"BraveMonox64.apk.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonox64.apk.sha256\"],[\"BraveMonox64.apk.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonox64.apk.sha256.asc\"],[\"BraveMonox86.apk.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonox86.apk.sha256\"],[\"BraveMonox86.apk.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/BraveMonox86.apk.sha256.asc\"],[\"policy_templates.zip\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/policy_templates.zip\"],[\"policy_templates.zip.sha256\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/policy_templates.zip.sha256\"],[\"policy_templates.zip.sha256.asc\",\"https://github.com/brave/brave-browser/releases/download/v1.73.101/policy_templates.zip.sha256.asc\"],[\"v1.73.101.tar.gz\",\"https://api.github.com/repos/brave/brave-browser/tarball/v1.73.101\"],[\"v1.73.101.zip\",\"https://api.github.com/repos/brave/brave-browser/zipball/v1.73.101\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Release\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Brave is an open-source web browser for Windows, macOS, Linux, Android and iOS.\"}",
+            "categories": [
+                "Browser"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "org.citra.citra_emu",
+            "url": "https://archive.org/details/citra-android",
+            "author": "archive.org",
+            "name": "Citra",
+            "apkUrls": "[[\"https://archive.org/download/citra-android/citra-android-universal-20240303-0ff3440.apk\",\"https://archive.org/download/citra-android/citra-android-universal-20240303-0ff3440.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Citra\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"3DS emulator\",\"supportFixedAPKURL\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "xyz.nethersx2_15.android",
+            "url": "https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk",
+            "author": "archive.org",
+            "name": "NetherSX2",
+            "apkUrls": "[[\"https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk\",\"https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"NetherSX2 v1.5-3668\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "xyz.nethersx2_18.android",
+            "url": "https://archive.org/download/nethersx2/NetherSX2-15210-v1.8-4248.apk",
+            "author": "archive.org",
+            "name": "NetherSX2",
+            "apkUrls": "[[\"https://archive.org/download/nethersx2/NetherSX2-15210-v1.8-4248.apk\",\"https://archive.org/download/nethersx2/NetherSX2-15210-v1.8-4248.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"NetherSX2 v1.8-4248\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "xyz.nethersx2_19.android",
+            "url": "https://archive.org/download/nethersx2/NetherSX2-15210-v1.9-4248.apk",
+            "author": "archive.org",
+            "name": "NetherSX2",
+            "apkUrls": "[[\"https://archive.org/download/nethersx2/NetherSX2-15210-v1.9-4248.apk\",\"https://archive.org/download/nethersx2/NetherSX2-15210-v1.9-4248.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"NetherSX2 v1.9-4248\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "xyz.aethersx2_3668.android",
+            "url": "https://archive.org/download/aether-sx2-v1.5-3668/AetherSX2-V1.5-3668.apk",
+            "author": "archive.org",
+            "name": "AetherSX2",
+            "apkUrls": "[[\"https://archive.org/download/aether-sx2-v1.5-3668/AetherSX2-V1.5-3668.apk\",\"https://archive.org/download/aether-sx2-v1.5-3668/AetherSX2-V1.5-3668.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"AetherSX2 v1.5-3668\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "xyz.aethersx2_4248.android",
+            "url": "https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk",
+            "author": "archive.org",
+            "name": "AetherSX2",
+            "apkUrls": "[[\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\",\"https://archive.org/download/aether-sx-2-15210-v-1.5-4248_202405/AetherSX2-15210-v1.5-4248.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"AetherSX2 v1.5-4248\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
             "categories": [
                 "Emulators"
             ],

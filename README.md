@@ -19,12 +19,15 @@ Import file for Obtanium to setup an Android console without a Google account.
 - MelonDS
 - PPSSPP
 - Vita3K
-- AetherSX2 15210-v1.5-4248 (alpha) <sup>*(archived ver.)*</sup>
+- AetherSX2 <sup>*(v1.5-3668, v1.5-4248)*</sup>
+- NetherSX2 <sup>*(v1.5-3668, v1.8-4248, v1.9-4248)*</sup>
 - Lime3DS <sup>*(archived ver.)*</sup>
+- Citra <sup>*(archived ver.)*</sup>
 - Mandarine
 - Citra MMJ
 - Cemu
 - Sudachi
+- Citron
 - Lemuroid
 - Winlator
 - NetherSX2 Patch <sup>*(Track-Only)*</sup>
@@ -34,7 +37,6 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Titanius Launcher
 ### Utility
 - Obtanium
-- Firefox
 - MiXplorer (Beta)
 - Localsend
 - Syncthing
@@ -43,6 +45,9 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Jellyfin
 - Stremio
 - mpv
+### Browser
+- Firefox
+- Brave Browser
 ### Streaming app
 - Moonlight
 - Steam Link

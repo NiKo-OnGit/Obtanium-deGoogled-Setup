@@ -548,6 +548,20 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
+        },
+        {
+            "id": "skyline.emu",
+            "url": "https://archive.org/download/skyline-edge-all-versions/Skyline%20Edge%20All%20Versions/z%20skyline-edge-69.apk",
+            "author": "archive.org",
+            "name": "Skyline",
+            "apkUrls": "[[\"https://archive.org/download/skyline-edge-all-versions/Skyline%20Edge%20All%20Versions/z%20skyline-edge-69.apk\",\"https://archive.org/download/skyline-edge-all-versions/Skyline%20Edge%20All%20Versions/z%20skyline-edge-69.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"Skyline\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"Switch emulator\",\"versionDetection\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

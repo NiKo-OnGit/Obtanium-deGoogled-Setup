@@ -28,6 +28,7 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Cemu
 - Sudachi
 - Citron
+- Skyline
 - Lemuroid
 - Winlator
 - NetherSX2 Patch <sup>*(Track-Only)*</sup>

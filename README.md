@@ -52,5 +52,6 @@ Import file for Obtanium to setup an Android console without a Google account.
 ### Streaming app
 - Moonlight
 - Steam Link
+- Chiaki
 ### Alternative store *(for apps you can only find on Play Store)*:
 - Aurora Store

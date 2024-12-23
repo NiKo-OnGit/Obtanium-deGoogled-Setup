@@ -562,6 +562,20 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
+        },
+        {
+            "id": "com.metallic.chiaki",
+            "url": "https://f-droid.org/packages/com.metallic.chiaki",
+            "author": "Florian Märkl",
+            "name": "Chiaki",
+            "apkUrls": "[[\"com.metallic.chiaki_12.apk\",\"https://f-droid.org/repo/com.metallic.chiaki_12.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "categories": [
+                "Streaming"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

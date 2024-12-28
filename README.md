@@ -27,7 +27,6 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Citra MMJ
 - Cemu
 - Sudachi
-- Citron
 - Skyline
 - Lemuroid
 - Winlator

@@ -437,20 +437,6 @@
             "allowIdChange": false
         },
         {
-            "id": "org.citron.citron_emu",
-            "url": "https://git.citron-emu.org/Citron/Citron/releases",
-            "author": "git.citron-emu.org",
-            "name": "Citron",
-            "apkUrls": "[[\"https://git.citron-emu.org/Citron/Citron/releases/download/nightly-20241208_091045/Citron-Android.apk\",\"https://git.citron-emu.org/Citron/Citron/releases/download/nightly-20241208_091045/Citron-Android.apk\"]]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Citron\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Nintendo Homebrew Emulator\",\"supportFixedAPKURL\":false}",
-            "categories": [
-                "Emulators"
-            ],
-            "overrideSource": null,
-            "allowIdChange": false
-        },
-        {
             "id": "com.brave.browser",
             "url": "https://github.com/brave/brave-browser",
             "author": "brave",

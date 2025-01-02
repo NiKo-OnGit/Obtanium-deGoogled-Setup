@@ -562,6 +562,21 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
+        },
+        {
+            "id": "com.redphx.betterxc",
+            "url": "https://github.com/redphx/better-xcloud-android",
+            "author": "redphx",
+            "name": "Better xCloud",
+            "apkUrls": "[[\"com.redphx.betterxc_0.22.3-35.apk\",\"https://api.github.com/repos/redphx/better-xcloud-android/releases/assets/216376983\"]]",
+            "otherAssetUrls": "[[\"a0.22.3.tar.gz\",\"https://api.github.com/repos/redphx/better-xcloud-android/tarball/a0.22.3\"],[\"a0.22.3.zip\",\"https://api.github.com/repos/redphx/better-xcloud-android/zipball/a0.22.3\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "categories": [
+                "Streaming"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

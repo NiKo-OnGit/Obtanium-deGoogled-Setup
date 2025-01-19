@@ -53,5 +53,7 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Steam Link
 - Chiaki
 - Better xCloud
-### Alternative store *(for apps you can only find on Play Store)*:
+### Alternative store *(for apps you can only find on Play Store)*
 - Aurora Store
+### Games
+- Space Cadet Pinball

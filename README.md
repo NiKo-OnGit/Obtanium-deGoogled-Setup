@@ -56,4 +56,5 @@ Import file for Obtanium to setup an Android console without a Google account.
 ### Alternative store *(for apps you can only find on Play Store)*
 - Aurora Store
 ### Games
+- Pluvia (Steam client)
 - Space Cadet Pinball

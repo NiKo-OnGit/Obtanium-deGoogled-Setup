@@ -592,6 +592,21 @@
             ],
             "overrideSource": null,
             "allowIdChange": true
+        },
+        {
+            "id": "com.OxGames.Pluvia",
+            "url": "https://github.com/oxters168/Pluvia",
+            "author": "oxters168",
+            "name": "Pluvia",
+            "apkUrls": "[[\"universal.apk\",\"https://api.github.com/repos/oxters168/Pluvia/releases/assets/221855436\"]]",
+            "otherAssetUrls": "[[\"v1.2.0.tar.gz\",\"https://api.github.com/repos/oxters168/Pluvia/tarball/v1.2.0\"],[\"v1.2.0.zip\",\"https://api.github.com/repos/oxters168/Pluvia/zipball/v1.2.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "categories": [
+                "Games"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

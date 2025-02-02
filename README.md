@@ -11,7 +11,8 @@ Import file for Obtanium to setup an Android console without a Google account.
 
 ## Included apps
 ### Emulators
-- RetroArch (AArch64) *(Nightly ver.)*
+- RetroArch *(Stable ver.)*
+- RetroArch *(Nightly ver.)*
 - Dolphin *(Development ver.)*
 - Dolphin MMJR2
 - Duckstation
@@ -27,10 +28,10 @@ Import file for Obtanium to setup an Android console without a Google account.
 - Citra MMJ
 - Cemu
 - Sudachi
+- Citron
 - Skyline
 - Lemuroid
 - Winlator
-- NetherSX2 Patch <sup>*(Track-Only)*</sup>
 ### Launcher
 - Daijisho
 - Pegasus Frontend

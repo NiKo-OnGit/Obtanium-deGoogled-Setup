@@ -2,11 +2,11 @@
 Import file for Obtainium to setup an Android console without a Google account.
 
 ### How to use
-- Download *Obtanium-deGoogled-Console-Setup.json* using the *Download raw file* button
+- Download *Obtainium-deGoogled-Console-Setup.json* using the *Download raw file* button
 - Download and install [Obtainium](https://github.com/ImranR98/Obtainium) on your console
 - Go to *Import/Export*
 - Go to *Obtainium Import*
-- Select the *Obtanium-deGoogled-Console-Setup.json* file
+- Select the *Obtainium-deGoogled-Console-Setup.json* file
 - Enjoy
 
 ### Included apps

@@ -56,7 +56,6 @@ Import file for Obtainium to setup an Android console without a Google account.
 * Jellyfin
 * Stremio
 * mpv
-* Localsend
 </details>
 
 

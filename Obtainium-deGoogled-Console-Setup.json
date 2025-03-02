@@ -635,21 +635,6 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
-        },
-        {
-            "id": "org.localsend.localsend_app",
-            "url": "https://github.com/localsend/localsend",
-            "author": "localsend",
-            "name": "LocalSend",
-            "apkUrls": "[[\"LocalSend-1.17.0-android-arm32v7.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/230667541\"],[\"LocalSend-1.17.0-android-arm64v8.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/230667545\"],[\"LocalSend-1.17.0-android-google-play.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/230812815\"],[\"LocalSend-1.17.0-android-x64.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/230667548\"]]",
-            "otherAssetUrls": "[[\"LocalSend-1.17.0-linux-arm-64.deb\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-arm-64.deb\"],[\"LocalSend-1.17.0-linux-arm-64.tar.gz\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-arm-64.tar.gz\"],[\"LocalSend-1.17.0-linux-x86-64.AppImage\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage\"],[\"LocalSend-1.17.0-linux-x86-64.deb\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.deb\"],[\"LocalSend-1.17.0-linux-x86-64.tar.gz\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.tar.gz\"],[\"LocalSend-1.17.0-windows-x86-64.exe\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe\"],[\"LocalSend-1.17.0-windows-x86-64.zip\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.zip\"],[\"LocalSend-1.17.0.dmg\",\"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0.dmg\"],[\"v1.17.0.tar.gz\",\"https://api.github.com/repos/localsend/localsend/tarball/v1.17.0\"],[\"v1.17.0.zip\",\"https://api.github.com/repos/localsend/localsend/zipball/v1.17.0\"]]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "categories": [
-                "Utility"
-            ],
-            "overrideSource": null,
-            "allowIdChange": false
         }
     ]
 }

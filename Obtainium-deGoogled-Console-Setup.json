@@ -635,6 +635,20 @@
             ],
             "overrideSource": null,
             "allowIdChange": false
+        },
+        {
+            "id": "com.dsemu.drastic",
+            "url": "https://archive.org/download/dra-stic-ds-emulator-r-2.6.0.4a/DraStic%20DS%20Emulator%20r2.6.0.4a.apk",
+            "author": "archive.org",
+            "name": "DraStic",
+            "apkUrls": "[[\"325992374-DraStic DS Emulator r2.6.0.4a.apk\",\"https://archive.org/download/dra-stic-ds-emulator-r-2.6.0.4a/DraStic%20DS%20Emulator%20r2.6.0.4a.apk\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"DraStic DS Emulator\",\"appAuthor\":\"Exophase\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "categories": [
+                "Emulators"
+            ],
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ]
 }

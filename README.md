@@ -64,6 +64,7 @@ Import file for Obtainium to setup an Android console without a Google account.
 
 * Firefox
 * Brave Browser
+* IronFox
 </details>
 
 

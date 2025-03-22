@@ -71,27 +71,13 @@
             "allowIdChange": false
         },
         {
-            "id": "com.retroarch.stable",
-            "url": "https://buildbot.libretro.com/stable/",
+            "id": "com.retroarch.aarch64",
+            "url": "https://buildbot.libretro.com/nightly/android",
             "author": "buildbot.libretro.com",
-            "name": "RetroArch (Stable)",
-            "apkUrls": "[[\"703856169-RetroArch.apk\",\"https://buildbot.libretro.com/stable/1.20.0/android/RetroArch.apk\"]]",
+            "name": "RetroArch (AArch64)",
+            "apkUrls": "[[\"1022465913-2025-03-22-RetroArch_aarch64.apk\",\"https://buildbot.libretro.com/nightly/android/2025-03-22-RetroArch_aarch64.apk\"]]",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[{\"customLinkFilterRegex\":\"[0-9]+\\\\.[0-9]+\\\\.[0-9]+\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false},{\"customLinkFilterRegex\":\"android\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false}],\"customLinkFilterRegex\":\"RetroArch.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"RetroArch (Stable)\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A multi-system emulator for various gaming platforms.\",\"refreshBeforeDownload\":false}",
-            "categories": [
-                "Emulators"
-            ],
-            "overrideSource": "HTML",
-            "allowIdChange": false
-        },
-        {
-            "id": "com.retroarch.nightly",
-            "url": "https://buildbot.libretro.com/nightly/android/",
-            "author": "buildbot.libretro.com",
-            "name": "RetroArch (Nightly)",
-            "apkUrls": "[[\"341275825-2025-02-02-RetroArch.apk\",\"https://buildbot.libretro.com/nightly/android/2025-02-02-RetroArch.apk\"]]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\\\\d{4}-\\\\d{2}-\\\\d{2}-RetroArch\\\\.apk\",\"filterByLinkText\":true,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\\\\d{4}-\\\\d{2}-\\\\d{2}\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"RetroArch (Nightly)\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A multi-system emulator for various gaming platforms.\",\"refreshBeforeDownload\":false}",
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\\\\d{4}-\\\\d{2}-\\\\d{2}-RetroArch_aarch64.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":true,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\\\\d{4}-\\\\d{2}-\\\\d{2}\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\\\\d{4}-\\\\d{2}-\\\\d{2}-RetroArch_aarch64.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"RetroArch (AArch64)\",\"appAuthor\":\"Libretro\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A multi-system emulator for various gaming platforms, optimized for devices with AArch64 architecture.\",\"refreshBeforeDownload\":false,\"supportFixedAPKURL\":true,\"sortByFileNamesNotLinks\":true,\"intermediateLinkRegex\":\"\"}",
             "categories": [
                 "Emulators"
             ],

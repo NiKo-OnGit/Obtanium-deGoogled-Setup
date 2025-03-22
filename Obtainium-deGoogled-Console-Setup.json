@@ -81,11 +81,11 @@
             "categories": [
                 "Emulators"
             ],
-            "overrideSource": null,
+            "overrideSource": "HTML",
             "allowIdChange": false
         },
         {
-            "id": "com.retroarch.nightly",
+            "id": "com.retroarch.aarch64",
             "url": "https://buildbot.libretro.com/nightly/android/",
             "author": "buildbot.libretro.com",
             "name": "RetroArch (Nightly)",
@@ -95,7 +95,7 @@
             "categories": [
                 "Emulators"
             ],
-            "overrideSource": null,
+            "overrideSource": "HTML",
             "allowIdChange": false
         },
         {

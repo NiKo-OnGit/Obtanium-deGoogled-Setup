@@ -13,8 +13,7 @@ Import file for Obtainium to setup an Android console without a Google account.
 
 <details><summary><b>Emulators</b></summary>
 
-* RetroArch *(Stable ver.)*
-* RetroArch *(Nightly ver.)*
+* RetroArch *(AArch64)*
 * Dolphin *(Development ver.)*
 * Dolphin MMJR2
 * Duckstation

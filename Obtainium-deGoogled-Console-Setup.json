@@ -85,7 +85,7 @@
             "allowIdChange": false
         },
         {
-            "id": "com.retroarch.aarch64",
+            "id": "com.retroarch.nightly",
             "url": "https://buildbot.libretro.com/nightly/android/",
             "author": "buildbot.libretro.com",
             "name": "RetroArch (Nightly)",

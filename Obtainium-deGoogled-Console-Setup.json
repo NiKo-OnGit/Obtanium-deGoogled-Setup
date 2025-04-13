@@ -466,13 +466,14 @@
             "allowIdChange": false
         },
         {
-            "id": "xyz.nethersx2_15.android",
-            "url": "https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk",
-            "author": "archive.org",
+            "id": "xyz.nethersx2_classic.android",
+            "url": "https://github.com/Trixarian/NetherSX2-classic",
+            "author": "Trixarian",
             "name": "NetherSX2",
-            "apkUrls": "[[\"https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk\",\"https://archive.org/download/nethersx2/NetherSX2-13930-v1.5-3668.apk\"]]",
+            "apkUrls": "[[\"15210-v2.0-3668-signed.apk\",\"https://api.github.com/repos/Trixarian/NetherSX2-classic/releases/assets/244589241\"]]",
+            "otherAssetUrls": "[[\"2.0a.tar.gz\",\"https://api.github.com/repos/Trixarian/NetherSX2-classic/tarball/2.0a\"],[\"2.0a.zip\",\"https://api.github.com/repos/Trixarian/NetherSX2-classic/zipball/2.0a\"]]",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"NetherSX2 v1.5-3668\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":true,\"about\":\"PS2 emulator\",\"versionDetection\":false,\"autoApkFilterByArch\":false}",
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"NetherSX2 Classic\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
             "categories": [
                 "Emulators"
             ],
